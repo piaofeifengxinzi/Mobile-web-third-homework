@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TurtlePrcject</string>
+    <string name="Leo">Leonardo </string>
+    <string name="Don">Donatello</string>
+    <string name="Raph">Raphael</string>
+    <string name="Mike">Michelangelo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
